@@ -56,6 +56,3 @@ Practice in legal cybersecurity labs and CTF challenges
 
 Always open to learning, sharing knowledge, collaborating on projects, and connecting with fellow technology and cybersecurity enthusiasts.
 
-💭 My Motto
-
-"Learn. Explore. Secure. Repeat." 🔐
